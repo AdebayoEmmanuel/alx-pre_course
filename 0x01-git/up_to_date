@@ -1,1 +1,3 @@
-touch up_to_date
+git fetch origin main
+git merge origin/main
+git push
